@@ -1,0 +1,529 @@
+{
+  "realm" : "pf",
+  "users" : [
+  {
+    "id" : "4rfda870-35ae-49d1-ba24-e56693f85ac3",
+    "createdTimestamp" : 1630584609340,
+    "username" : "ali.cicek",
+    "firstName" : "Ali Oğuzhan",
+    "lastName" : "Çiçek",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "ali.oguzhan.cicek-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "45c4d620-eb74-4e82-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "15c9bcc9-eb7a-4c28-9686-3a1b3ee91fca",
+    "createdTimestamp" : 1630584609340,
+    "username" : "baris.cetinturk",
+    "firstName" : "Barış",
+    "lastName" : "Çetintürk",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "baris.cetinturk-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "45b4d620-ef74-4e82-8fb8-95fd71m2bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "ace49d9a-754b-4c37-b474-279d59987fe1",
+    "createdTimestamp" : 1630584609340,
+    "username" : "agit.demir",
+    "firstName" : "Agit Rubar",
+    "lastName" : "Demir",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "agit.rubar.demir-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "45k4d620-ef74-4e82-8fb8-9vfd72a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf"],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "7f5ea503-d3bb-48b1-8639-24136e760184",
+    "createdTimestamp" : 1630584609340,
+    "username" : "canku.kilic",
+    "firstName" : "Canku",
+    "lastName" : "Kılıç",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "canku.kilic-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-09-09 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-09-09 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "45l4d6n0-ef74-4e52-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+{
+    "id" : "0801877e-ac65-49e1-94b0-acba27986fca",
+    "createdTimestamp" : 1630584609340,
+    "username" : "ahmet.eren",
+    "firstName" : "Ahmet Furkan",
+    "lastName" : "Eren",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "ahmet.furkan.eren-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "45i4d621-ef74-4e82-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "258dc116-c89c-465c-b9cf-96e6bc95735a",
+    "createdTimestamp" : 1630584609340,
+    "username" : "eyup.yurusoy",
+    "firstName" : "Eyüp",
+    "lastName" : "Yürüsoy",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "eyup.yurusoy-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-09-09 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-09-09 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "15e4d620-ef74-4e82-8fb8-95fd02a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "ab683d3f-7507-4cf6-8706-1000535efda5",
+    "createdTimestamp" : 1630584609340,
+    "username" : "anil.sakaryali",
+    "firstName" : "Anıl",
+    "lastName" : "Sakaryalı",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "anil.sakaryali-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "25e4d620-ef74-4e82-8fb8-95fd71a1p88d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "eafb7ef4-cc31-4dc6-8474-8fbaae7255bd",
+    "createdTimestamp" : 1630584609340,
+    "username" : "can.deniz",
+    "firstName" : "Can",
+    "lastName" : "Deniz",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "can.deniz-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "35e4d620-ef74-4e82-8fb8-l4fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+    {
+    "id" : "f97ab266-eb79-42b5-887e-e08e2e3619eb",
+    "createdTimestamp" : 1630584609340,
+    "username" : "hasan.cerit",
+    "firstName" : "Hasan",
+    "lastName" : "Cerit",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "hasan.cerit-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-09-09 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-09-09 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "55e4d620-ef74-4e82-9fb8-25fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "695e57cf-8a05-468c-b1e9-259b55d3cbe9",
+    "createdTimestamp" : 1630584609340,
+    "username" : "deniz.genc",
+    "firstName" : "Deniz",
+    "lastName" : "Genç",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "deniz.genç-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "65e4d621-ef74-4n82-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+    {
+    "id" : "9256096f-3e54-4c31-a0aa-dd548dca08a6",
+    "createdTimestamp" : 1630584609340,
+    "username" : "mert.kondakcioglu",
+    "firstName" : "Mert",
+    "lastName" : "Kondakçıoğlu",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "mert.kondakcioglu-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-09-09 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-09-09 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "75e4d620-ef64-4e82-8fb8-95kd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "2b446325-9ffc-474c-b946-56569db1075b",
+    "createdTimestamp" : 1630584609340,
+    "username" : "emre.akis",
+    "firstName" : "Emre",
+    "lastName" : "Akış",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "emre.akis-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "85e4d620-ef74-4e82-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "6688cf5d-b95c-40f5-88bf-48a7d4b7e1b8",
+    "createdTimestamp" : 1630584609340,
+    "username" : "omer.taskin",
+    "firstName" : "Ömer",
+    "lastName" : "Taşkın",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "omer.taskin-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "95e4d620-ef74-4e82-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "ae771d99-5dc5-43d7-aae7-382f19e7b015",
+    "createdTimestamp" : 1630584609340,
+    "username" : "tahsin.keles",
+    "firstName" : "Tahsin Furkan",
+    "lastName" : "Keleş",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : true,
+    "email" : "tahsin.furkan.keles-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "credentials" : [ {
+      "id" : "05e4d620-ef74-4e82-8fb8-95fd71a1bd8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+  {
+    "id" : "5c567e92-413d-48c0-ba4c-04d7a427647a",
+    "createdTimestamp" : 1630584609340,
+    "username" : "ozgun.unsal",
+    "firstName" : "Özgün",
+    "lastName" : "Ünsal",
+    "email" : "ozgun.unsal-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "enabled" : true,
+    "totp" : false,
+    "credentials" : [ {
+      "id" : "45e4d620-ef74-4ed2-8fb8-95fd71a1md8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+
+  {
+    "id" : "5c567e92-413d-48c0-ba4c-04d7a427647b",
+    "createdTimestamp" : 1630584609340,
+    "username" : "engin.sarac",
+    "firstName" : "Engin",
+    "lastName" : "Sarac",
+    "email" : "engin.sarac-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "enabled" : true,
+    "totp" : false,
+    "credentials" : [ {
+      "id" : "45e4d699-ef74-4ed2-8fb8-95fd71a1md0p",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  },
+
+
+  {
+    "id" : "5c567e92-413d-48c0-ba4c-04d7a427647a",
+    "createdTimestamp" : 1630584609340,
+    "username" : "ugur.altas",
+    "firstName" : "Uğur",
+    "lastName" : "Altaş",
+    "email" : "ugur.altas-dsb@finartz.com",
+    "attributes" : {
+      "status" : "A",
+      "createdDate" : "2021-10-27 01:00:54",
+      "createdUser" : "hasan.cerit",
+      "modifiedDate" : "2021-10-27 01:00:54",
+      "modifiedUser" : "hasan.cerit"
+    },
+    "enabled" : true,
+    "totp" : false,
+    "credentials" : [ {
+      "id" : "45e4d699-ef74-4ed2-8fb8-95fd71a1md8d",
+      "type" : "password",
+      "createdDate" : 1630584624266,
+      "secretData" : "{\"value\":\"/8dhhnOYJ3AuvQ269SWdOdU4BOZfW+el5VA5PB+P/UnLCTyIoJOlktkT0TxLkONCdkXQNQ762Gl13KQkOKwvQw==\",\"salt\":\"rooCYod8hBXMt0JY2J1XJA==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":27500,\"algorithm\":\"pbkdf2-sha256\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-pf" ],
+    "notBefore" : 0,
+    "groups" : [ "admin-group" ]
+  }  
+]}

@@ -1,0 +1,19 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-win": "electron-packager . --overwrite --platform=win32 --arch=ia32 --asar --icon=assets/icons/win/icon.ico --prune=false --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"APP NAME\""
+  },
+  "author": "eu",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^1.0.7"
+  },
+  "devDependencies": {
+    "electron": "^6.1.12",
+    "electron-packager": "^6.0.2"
+  }
+}

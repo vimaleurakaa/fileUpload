@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Registro>
+    <Protocolo>2</Protocolo>
+    <ID>20210830_69</ID>
+    <Lote>
+        <CodLab>01906</CodLab>
+        <CodLoteLab>20210830_69</CodLoteLab>
+        <DataLote>2021-08-30</DataLote>
+        <HoraLote>15:48:53</HoraLote>
+        <Pedido>
+            <CodPedLab>002-65986-122</CodPedLab>
+            <DataPed>2021-08-30</DataPed>
+            <HoraPed>08:02:17</HoraPed>
+            <Paciente>
+                <CodPacLab>118575</CodPacLab>
+                <Nome>EDER DE SOUZA VIANA</Nome>
+                <Sexo>Masculino</Sexo>
+                <DataNasc>1985-08-05</DataNasc>
+                <IdadeAno>36</IdadeAno>
+                <IdadeMes>432</IdadeMes>
+                <IdadeDia>13174</IdadeDia>
+            </Paciente>
+            <Exame>
+                <CodExmApoio>COVID|1</CodExmApoio>
+                <CodExmLab>2952</CodExmLab>
+                <DataColeta>2021-08-30</DataColeta>
+                <HoraColeta>08:02:00</HoraColeta>
+                <InformacaoComplementar>
+                    <InfoComp>EtiquetaSemCovid</InfoComp>
+                    <Valor>C643135AB</Valor>
+                </InformacaoComplementar>
+                <IdTuboLab>2117958300</IdTuboLab>
+            </Exame>
+        </Pedido>
+        <Pedido>
+            <CodPedLab>028-65986-173</CodPedLab>
+            <DataPed>2021-08-30</DataPed>
+            <HoraPed>08:39:40</HoraPed>
+            <Paciente>
+                <CodPacLab>90572</CodPacLab>
+                <Nome>ELSO SIDINEI MASSON </Nome>
+                <Sexo>Masculino</Sexo>
+                <DataNasc>1950-04-03</DataNasc>
+                <IdadeAno>71</IdadeAno>
+                <IdadeMes>856</IdadeMes>
+                <IdadeDia>26082</IdadeDia>
+            </Paciente>
+            <Exame>
+                <CodExmApoio>COVID|1</CodExmApoio>
+                <CodExmLab>2952</CodExmLab>
+                <DataColeta>2021-08-30</DataColeta>
+                <HoraColeta>08:41:00</HoraColeta>
+                <InformacaoComplementar>
+                    <InfoComp>EtiquetaSemCovid</InfoComp>
+                    <Valor>C699101AB</Valor>
+                </InformacaoComplementar>
+                <IdTuboLab>2117963800</IdTuboLab>
+            </Exame>
+        </Pedido>
+    </Lote>
+</Registro>

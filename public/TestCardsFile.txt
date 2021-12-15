@@ -1,0 +1,2 @@
+CID;DepositAmount;PhoneNumber;Name;SSN;PassportNumber;PassportValidToDate;PassportIssuer;Country;Address;ZipCode
+1111;100;"+359883332909";"Никола";"8505054700";"2352342354";"04/02/2021";"Bulgaria";"Bulgaria2";"addresssss";"1000"

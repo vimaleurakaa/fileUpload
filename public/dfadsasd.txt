@@ -1,0 +1,18 @@
+Variabel UAS : 
+- Luas Tanah
+- Lebar Depan Bidang Tanah
+- Bentuk Tanah (Kotak, Beraturan tidak kotak, Tidak Beraturan)
+- Ketinggian dari paras jalan (cm)
+- Kemiringan (rata, tidak rata)
+- Struktur Tanag (keras, urug, tanah sawah/rawa)
+- Letak Tanah (Tengah, Hook, Jl. Buntu)
+- Lebar Jalan Depan Properti
+- Perkerasan Jalan Depan (Tanah, Makadam, Aspal, Beton, Beton Aspal)
+- Kualitas Jalan (Skala Likert 5 skala.. sangat buruk-sangat baik)
+
+ 
+- Nomor Data
+- Kabupaten kota
+- Koordinat
+- NJOP
+
